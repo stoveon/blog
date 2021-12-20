@@ -50,18 +50,12 @@ author:
 menu:
   - title:             About
     url:               /about/
-  - title:             Example1
-    url:               /example1/
-  - title:             Example2
-    url:               /example2/
- 
-  - title:             Submenu
-    url:               /submenu/
-    submenu:
-      - title:  SubTest1
-        url:      /subtest1/
-      - title:  SubTest2
-        url:      /subtest2/
+  - title:             SURVEY PROJECT
+    url:               /survey/
+  - title:             INSIDEHOME PROJECT
+    url:               /insidehome/
+  - title:             CAFE CARP PROJECT
+    url:               /cafekcarp/ 
  
 
 # Add links to the footer.
