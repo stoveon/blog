@@ -1,6 +1,6 @@
-# from khw11044's Github Pages
+# from stoveon's Github Pages
 
-<https://khw11044.github.io>
+<https://stoveon.github.io>
 
 ---
-Powered By [Hydejack-Starter-Kit](https://github.com/hydecorp/hydejack-starter-kit)
+Powered By [Hydejack-Starter-Kit](https://github.com/stoveon/stoveon.github.io)
