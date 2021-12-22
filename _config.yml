@@ -27,7 +27,7 @@ description:           >
 
 
 # A shorter description for the sidebar.
-tagline:              백엔드에서 풀스택 개발자를 향해 <br> 나아갈 것입니다.
+tagline:              백엔드에서 풀스택 개발자를 향해
 
 # A list of keywords for your blog
 keywords:              [Developer, backend, computer science, data science]
@@ -54,6 +54,8 @@ menu:
     url:               /individual/
   - title:             TEAM
     url:               /team/
+  - title:             ETC
+    url:               /etc/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..

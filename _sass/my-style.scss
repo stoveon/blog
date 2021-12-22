@@ -306,15 +306,43 @@ u{
   margin-left: 5px !important;
 }
 
-// profile 저자 설명 
+// profile 저자 설명
 .author-body-description {
-  margin-left: 20px !important; 
-  margin-top: 20px !important; 
+  margin-left: 20px !important;
+  margin-top: 20px !important;
 }
 
-// 소셜바  
+// 소셜바
 .sidebar-social {
-  margin-top: 10px !important; 
+  margin-top: 10px !important;
   margin-bottom: 15px;
 }
 
+
+.marldow-body{
+  kbd{
+    font-size: 15px;
+    font-family: monospace;
+    color: #555;
+    background-color: #fcfcfc;
+    border : solid 1px #ccc;
+    border-radius: 3px;
+    border-bottom-color: #bbb;
+    padding: 3px 5px;
+  }
+  mark{
+    padding: 3px 5px;
+    background-color: #FFF9C4;
+  }
+  under{
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-underline-position: under;
+    padding-bottom: 2px;
+  }
+  code{
+    padding: .25em .5em;
+    background-color: rgb(251,232,201);
+    border-radius: 5px;
+  }
+}

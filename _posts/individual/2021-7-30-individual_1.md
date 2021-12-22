@@ -8,19 +8,19 @@ categories:
 tags:
     - survey project
 
-image: 
-  path: /assets/img/me/Luncheon_of_Boating_Party.JPG
+image:
+  path: /assets/img/survey_coffee/survey_coffee_1.PNG
   srcset:
-    1060w: /assets/img/example1/Luncheon_of_Boating_Party.JPG
-    530w:  /assets/img/example1/Luncheon_of_Boating_Party.JPG
-    265w:  /assets/img/example1/Luncheon_of_Boating_Party.JPG
+    1060w: /assets/img/survey_coffee/survey_coffee_1.PNG
+    530w:  /assets/img/survey_coffee/survey_coffee_2.PNG
+    265w:  /assets/img/survey_coffee/survey_coffee_3.PNG
 
 #related_posts:
 #    - _posts/individual/2021-7-30-individual_1.md
 
 comments: true
 published: true
-author : 
+author :
 ---
 
 
