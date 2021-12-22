@@ -46,7 +46,7 @@ font-weight:bold">
 >
 > 관광서비스경영학과 (Department of Tourism Service Management)
 
-> Mar.2021 ~ Feb.2022 : 학점은행제
+> Feb.2021 ~ Feb.2022 : 학점은행제
 >
 > 컴퓨터공학과 (학위 취득예정)
 
