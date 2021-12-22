@@ -1,7 +1,7 @@
 ---
 layout: list
-bigtitle: SURVEY PROJECT
-slug: survey
+bigtitle: INDIVIDUAL PROJECT
+slug: individual
 menu: true
 submenu: false
 order: 1

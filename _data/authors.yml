@@ -27,7 +27,7 @@ author1:
     instagram:       stove_o_n
     github:          stoveon
     email:           mailto:stopluna@naver.com
-    rss:             https://stoveon.github.io
+    rss:             https://blog.naver.com/stopluna
     # twitter:         <username>
     # facebook:        <username>
     # google:          <number>
@@ -64,26 +64,3 @@ author1:
     # paypal:          <username>
     # download:        <url>
     # keybase          <username>
-
-# Another author (optional)
-author2:
-  name:              Jieun Jeong
-  email:             <stopluna@naver.com>
-  about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-
-  picture:
-    path:            /assets/img/nap.jpg
-    # srcset is optional, but can be used to provide higher res versions for retina displays
-    srcset:
-      1x:            /assets/img/nap.jpg
-      2x:            /assets/img/nap.jpg
-
-  social:
-    instagram:       stove_o_n
-    github:          stoveon
-    email:           mailto:stopluna@naver.com
-    rss:             https://stoveon.github.io

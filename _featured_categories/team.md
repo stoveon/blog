@@ -1,7 +1,7 @@
 ---
 layout: list
-bigtitle: INSIDEHOME PROJECT
-slug: insidehome
+bigtitle: TEAM PROJECT
+slug: team
 menu: true
 submenu: false
 order: 2

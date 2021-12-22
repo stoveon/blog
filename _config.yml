@@ -18,7 +18,7 @@ url:                   https://stoveon.github.io
 lang:                  ko-KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 JIEUN JEONG <br> GITBLOG
+title:                 JIEUN JEONG
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -30,7 +30,7 @@ description:           >
 tagline:              백엔드에서 풀스택 개발자를 향해 <br> 나아갈 것입니다.
 
 # A list of keywords for your blog
-keywords:              [Developer, AI, blog, backend, computer science, data science]
+keywords:              [Developer, backend, computer science, data science]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -50,12 +50,10 @@ author:
 menu:
   - title:             About
     url:               /about/
-  - title:             SURVEY PROJECT
-    url:               /survey/
-  - title:             INSIDEHOME
-    url:               /insidehome/
-  - title:             CAFE CARP
-    url:               /cafekcarp/ 
+  - title:             INDIVIDUAL
+    url:               /individual/
+  - title:             TEAM
+    url:               /team/
  
 
 # Add links to the footer.
