@@ -28,7 +28,7 @@ description:           >
 
 
 # A shorter description for the sidebar.
-tagline:              멋쟁이 사자처럼과 함께 따라하면서 만들어보는 GitBlog 
+tagline:              백엔드에서 풀스택 개발자가 되기까지!! 아자!!
 
 # A list of keywords for your blog
 keywords:              [developer, blog, backend, computer science, data science]
@@ -102,7 +102,7 @@ collections:
 # ---------------------------------------------------------------------------------------
 
 theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9.0.0-rc.6
+remote_theme: hydecorp/hydejack@v9.0.5
 
 
 # Customizaton
@@ -202,7 +202,7 @@ comments:
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-disqus:                stoveon
+disqus:                khw11044
 
 # Before to use utterance, You must install utterance github app.
 # Check below link for detail.
