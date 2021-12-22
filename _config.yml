@@ -54,7 +54,6 @@ menu:
     url:               /individual/
   - title:             TEAM
     url:               /team/
- 
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -198,7 +197,7 @@ comments:
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-disqus:                khw11044
+disqus:                stopluna
 
 # Before to use utterance, You must install utterance github app.
 # Check below link for detail.
@@ -432,3 +431,5 @@ jekyll_compose:
           url: https://example.com
 
 
+plugins:
+                  - jekyll-paginate

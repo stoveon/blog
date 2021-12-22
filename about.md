@@ -21,10 +21,10 @@ font-weight:bold">
 </span>
 </center>
 
-<center>MAJOR : COMPUTER EENGINEERING</center>
+<!--<center>MAJOR : COMPUTER EENGINEERING</center>
 
 <center>The Academic Credit Bank System</center>
-
+-->
 <center>7, Gosong-ro, Gochon-eup, Gimpo-si, Gyeonggi-do, Republic of Korea</center>
 
 ## Personal Data
