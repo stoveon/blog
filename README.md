@@ -3,4 +3,4 @@
 <https://stoveon.github.io>
 
 ---
-Powered By [Hydejack-Starter-Kit](https://github.com/stoveon/stoveon.github.io)
+Powered By [stoveon's repository](https://github.com/stoveon/stoveon.github.io)
